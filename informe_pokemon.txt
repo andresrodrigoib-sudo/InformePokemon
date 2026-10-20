@@ -1,0 +1,35 @@
+=========================
+ INFORME DE POKÉMON
+=========================
+
+Total de Pokémon: 5
+
+Nivel medio: 17.20
+
+PS medios: 64.60
+
+Pokémon con mayor nivel:
+Pikachu (Nivel 25)
+
+Pokémon con más PS:
+Snorlax (PS 160)
+
+-------------------------
+POKÉMON POR TIPO
+-------------------------
+
+PLANTA: 1
+Bulbasaur
+
+ELÉCTRICO: 1
+Pikachu
+
+AGUA: 1
+Squirtle
+
+FUEGO: 1
+Charmander
+
+NORMAL: 1
+Snorlax
+
